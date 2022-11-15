@@ -14,7 +14,7 @@ boxshadow: 0px 0px 4px 4px #00eaff38;
     background-image: url(https://j.top4top.io/p_2495q9u9q1.gif);}background-size: 100% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;
     }
 
-.nosel.d-flex.room .fitimg.u-pic.borderg{border-radius: 0px 15px 0px 15px;border: 2px solid #00bbea;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
+	.nosel.d-flex.room .fitimg.u-pic.borderg{border-radius: 0px 15px 15px 15px;border: 2px solid #00bbea;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
 
 
 
@@ -245,6 +245,313 @@ d2.hlm2.flex-grow-1.break.light{
 				$('#users').removeClass('stl1');
 				$('#dpnl').removeClass('hlm7');
 				$('#dpnl').removeClass('hlm9');
+            } 
+        } 
+    }, 10);
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$(`<style>.nosel.d-flex.room.r18477298753xf18b26e4-xqay12h .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;}
+
+.nosel.d-flex.room.r18477298753xf18b26e4-xqay12h .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;}
+
+
+    .nosel.d-flex.room.r18477298753xf18b26e4-xqay12h.bord {border-inline: 4px solid #f088b5 !important;}
+    .nosel.d-flex.room.r18477298753xf18b26e4-xqay12h {
+    border-radius: 0px 15px 15px 15px;
+    display: inline-block;
+    background-image: url(https://up6.cc/2022/11/166854125237091.png);
+	background-size: 100%;
+	padding: 5px !important;
+    }
+    .nosel.d-flex.room.r18477298753xf18b26e4-xqay12h .dots.mini.u-msg {
+    text-align: center;
+    -webkit-text-fill-color: #fffffff;
+    background-image: url(https://up6.cc/2022/11/166853877558661.gif);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: -5px;}
+    .nosel.d-flex.room.r18477298753xf18b26e4-xqay12h .fitimg.u-pic.borderg{border-radius: 0px 15px 15px 15px;border: 2px solid #f088b5;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
+    .nosel.d-flex.room.r18477298753xf18b26e4-xqay12h .u-topic.dots {
+    text-transform: uppercase;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 2s linear infinite;
+    display: inline-block;
+    font-size: 18px !important;
+    font-style: normal;
+    font-family: sans-serif;
+    background-image: url(https://up6.cc/2022/11/166853877558661.gif);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: -5px;}
+    @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+
+    var roomiddal='18477298753xf18b26e4-xqay12h';
+    $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${roomiddal}')"]{padding: 2px !important;
+    animation: textclip 5s linear infinite;
+    border-radius: 50px !important;
+    border: 1px solid #0000;
+    font-size: 15px !important;
+    font-style: normal;
+    font-family: sans-serif;
+    background-image: url(https://up6.cc/2022/11/166853877558661.gif);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: -5px;}`);
+    
+    
+    
+    
+    
+    $(`<style>#mic.bnat3 .mic {
+        border: 2px solid;
+        border-image: linear-gradient(var(--angle), #ffffff 0%, #f088b5 29%, #f088b5 67%, #020202 100%) 1;
+        animation: 5s rotate linear infinite;
+        --angle: 0deg;
+        background-color: #e3e3e3;
+        border-radius: 5px !important;
+        margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
+        height: 48px;}
+        
+        @keyframes rotate{
+        to {
+            --angle: 360deg;
+        }
+    }
+    @property --angle {
+        syntax: "<angle>";
+        initial-value: 0deg;
+        inherits: false;
+    }</style>`).insertBefore('body');
+    
+    
+    
+    $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${roomiddal}')"]{animation: textclip 5s linear infinite;
+    border-radius: 50px !important;
+    border: 1px solid #0000;
+    font-size: 15px !important;
+    font-style: normal;
+    font-family: sans-serif;
+    background-image: url(https://up6.cc/2022/11/166853877558661.gif);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: -3px;}`);
+    
+    $("style").last().append(`
+    
+    #users.bnat1 .inroom.uzr img.ustat {
+      width: 54px !important;
+      border-radius: 0px 15px 15px 15px;
+      height: 52px;
+      margin-top: -1px;
+      min-height: 0% !important;
+    }
+    #users.bnat1 .inroom.uzr .fitimg.u-pic {
+      border-radius: 0px 15px 15px 15px;
+    margin-top: 0px;
+    z-index: 0;
+    margin-left: -51px;
+    min-width: 50px;
+    width: 50px;
+    min-height: 48px;
+    max-height: 50px;
+    }
+
+    #d2.bnat2 .uzr .fitimg.u-pic{
+    border: 2px solid #f088b5 ;
+        
+        --angle: 0deg;
+        border-radius: 0px 15px 15px 15px;
+        background-color: #e3e3e3;
+       
+       
+    ;}
+    #users.bnat1 .uzr .u-msg{
+        -webkit-text-fill-color: #0000;
+        text-transform:uppercase;
+        background-image: url(https://g.top4top.io/p_2484pn5dd1.gif);
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    color: transparent !important;}
+
+    #users.bnat1 .inroom.uzr span.uhash{
+    text-transform:uppercase;
+    background-image: linear-gradient(270deg, #ffff,  #f088b5);
+    background-size:220% auto;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;animation:2s linear infinite textclip;
+    display:inline-block;}
+    
+    #users.bnat1 .uzr {
+        background-color: #0000 !important;}
+      #users.bnat1 {
+        background-image: url("https://up6.cc/2022/11/166853996712891.png");
+  background-size: cover;
+  background-color: #f5f5f5 !important;}
+
+
+    
+
+    #users.bnat1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
+    #d2.bnat2 {
+        background-color: #f5f5f5 !important;
+        background-image: url("https://up6.cc/2022/11/166853996712891.png");
+        background-size: cover;
+    
+    }
+    #chats.bnat5 {
+      background-color: #f5f5f5 !important;
+      background-image: url("https://up6.cc/2022/11/166853996712891.png");
+      background-size: cover;
+  }
+
+    }
+    #d0.bnat {background-color: #f6f6f6;}
+    #d0.bnat .label-primary {background-color: #f088b5;}
+	#d0.bnat .bg {background-color: #f088b5;}
+    
+    #settings.bnat4 .label-primary {background-color: #f088b5 !important;}
+
+    #rooms.bnat4 .label-primary {background-color: #f088b5 !important;}
+
+    #rooms.bnat4 {
+        background-image: url("https://up6.cc/2022/11/166853996712891.png");
+        background-size: cover;
+        background-color: #f5f5f5 !important;} 
+
+		#d2.bnat2 .uzr.d-flex.mm.hmsg {
+        background-color: #ff009f14!important;
+}
+
+	#d2.bnat2 .uzr.d-flex.mm.pmsgc {
+ 
+        background-color: #ff009f14!important;
+}
+
+
+
+
+
+
+
+
+#d2bc.bnat6.d2.light.d2bc.flex-grow-1.break {
+  background-image: url("https://up6.cc/2022/11/166853996712891.png");
+  background-size: cover;
+  background-color: #f5f5f5 !important;} 
+
+#users .uzr.stl1 .u-msg{
+background-color:#f088b5;}
+
+#d2.bnat2.flex-grow-1.break.light{
+  background-image: url("https://up6.cc/2022/11/166853996712891.png");
+  background-size: cover;
+  background-color: #f5f5f5 !important;}
+
+#dpnl.bnat7  {
+
+
+    background-color: #f088b5;
+  }
+
+
+#dpnl.bnat9 .nosel.ninr.fl.uzr.label.bg {
+
+
+    background-color: #f088b5 !important;
+  }
+#dpnl.bnat9.bg {
+
+
+    background-color: #f088b5 !important;
+  }
+`);
+
+
+    
+         
+         
+    var roombnattest = false;
+    
+    setInterval(function () {
+        if (myroom == '18477298753xf18b26e4-xqay12h') {
+            if (roombnattest == false) {
+                roombnattest = true;
+              $('#users').addClass('bnat1');
+                $('#d2').addClass('bnat2');
+                $('#mic').addClass('bnat3');
+                $('#settings').addClass('bnat4');
+                $('#rooms').addClass('bnat4');
+                $('#d0').addClass('bnat');
+                $('#chats').addClass('bnat5');
+                $('#d2bc').addClass('bnat6');
+				$('#users').addClass('stl1');
+				$('#dpnl').addClass('bnat7');
+				$('#dpnl').addClass('bnat9');
+            }
+        } else {
+            if (roombnattest == true) {
+                roombnattest = false;
+                $("#users").removeClass('bnat1');
+                $("#d2").removeClass('bnat2');
+                $('#mic').removeClass('bnat3');
+                $('#settings').removeClass('bnat4');
+                $('#rooms').removeClass('bnat4');
+                $('#d0').removeClass('bnat');
+                $('#chats').removeClass('bnat5');
+                $('#d2bc').removeClass('bnat6');
+				$('#users').removeClass('stl1');
+				$('#dpnl').removeClass('bnat7');
+				$('#dpnl').removeClass('bnat9');
             } 
         } 
     }, 10);
