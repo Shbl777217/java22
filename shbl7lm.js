@@ -592,7 +592,6 @@ background-color:#f088b5;}
 
 
 
-
 $(`<style>.nosel.d-flex.room.r1838ec9ccb8x3d7b2763-x-uy1e9v .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000 ;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;}
 
 .nosel.d-flex.room.r1838ec9ccb8x3d7b2763-x-uy1e9v .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #000 ;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;}
@@ -745,12 +744,12 @@ font-size: 16px !important;-webkit-text-fill-color: #0000;background-image: url(
 
     }
     #d0.swa {background-color: #f6f6f6;}
-    #d0.swa .label-primary {background-color: #000;}
+    #d0.swa .label-primary {background-color: #transparent;}
 	#d0.swa .bg {background-color: #000;}
     
     #settings.swa4 .label-primary {background-color: #000 !important;}
 
-    #rooms.swa4 .label-primary {background-color: #000 !important;}
+    #rooms.swa4 .label-primary {background-color: #transparent; !important;}
 
     #rooms.swa4 {
         background-image: url("https://up6.cc/2022/11/166869112188972.gif");
