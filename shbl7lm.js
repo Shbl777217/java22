@@ -618,7 +618,7 @@ $(`<style>.nosel.d-flex.room.r1838ec9ccb8x3d7b2763-x-uy1e9v .label-primary {back
     .nosel.d-flex.room.r1838ec9ccb8x3d7b2763-x-uy1e9v .fitimg.u-pic.borderg{border-radius: 0px 15px 15px 15px;border: 2px solid #000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 	margin-bottom: 10% !important;
 	margin-right: 5% !important;}
-    .nosel.d-flex.room.r1838ec9ccb8x3d7b2763-x-uy1e9v .u-topic.dots {text-align: center;background-size: 200% auto; -webkit-background-clip: text;
+    .nosel.d-flex.room.r1838ec9ccb8x3d7b2763-x-uy1e9v .u-topic.dots {text-align: center;background-size: 100% auto; -webkit-background-clip: text;
 font-size: 18px !important;-webkit-text-fill-color: #0000;background-image: url(https://j.top4top.io/p_2491fp0ba1.gif);}
     @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 
