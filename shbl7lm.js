@@ -556,3 +556,292 @@ background-color:#f088b5;}
         } 
     }, 10);
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$(`<style>.nosel.d-flex.room.r1838ec9ccb8x3d7b2763-x-uy1e9v .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000 ;padding: 0px !important;border-radius: 0px 15px 15px 15px !important;}
+
+.nosel.d-flex.room.r1838ec9ccb8x3d7b2763-x-uy1e9v .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #000 ;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;}
+
+
+    .nosel.d-flex.room.r1838ec9ccb8x3d7b2763-x-uy1e9v.bord {border-inline: 4px solid #484848 !important;
+	margin-bottom: 1px !important;
+	margin-right: 100px !important;
+	margin-lieft: 100px !important;}
+    .nosel.d-flex.room.r1838ec9ccb8x3d7b2763-x-uy1e9v {
+    border-radius: 0px 15px 15px 15px;
+    display: inline-block;
+    background-image: url(https://up6.cc/2022/11/166869244178561.gif);
+	background-size: 100%;
+	padding: 2px !important;
+    }
+    .nosel.d-flex.room.r1838ec9ccb8x3d7b2763-x-uy1e9v .dots.mini.u-msg {
+    margin-top: 15px !important;
+    text-align: center;
+    -webkit-text-fill-color: #000;
+    background-image: linear-gradient(-225deg, #c8c8c8 0%, #000 29%, #000 67%, #000 100%);background-size: 100% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;
+    }
+    .nosel.d-flex.room.r1838ec9ccb8x3d7b2763-x-uy1e9v .fitimg.u-pic.borderg{border-radius: 0px 15px 15px 15px;border: 2px solid #000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
+	margin-bottom: 10% !important;
+	margin-right: 5% !important;}
+    .nosel.d-flex.room.r1838ec9ccb8x3d7b2763-x-uy1e9v .u-topic.dots {text-align: center;background-size: 200% auto; -webkit-background-clip: text;
+font-size: 18px !important;-webkit-text-fill-color: #0000;background-image: url(https://j.top4top.io/p_2491fp0ba1.gif);}
+    @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+
+    var roomiddal='1838ec9ccb8x3d7b2763-x-uy1e9v';
+    $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${roomiddal}')"]{padding: 2px !important;
+    animation: textclip 5s linear infinite;
+    border-radius: 50px !important;
+    border: 1px solid #0000;
+    font-size: 18px !important;
+    font-style: normal;
+    font-family: sans-serif;
+    background-image: url(https://j.top4top.io/p_2491fp0ba1.gif);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: -5px;}`);
+    
+    
+    
+    
+    
+    $(`<style>#mic.swa3 .mic {
+        border: 2px solid;
+        border-image: linear-gradient(var(--angle), #ffffff 0%, #000 29%, #ffffff 67%, #020202 100%) 1;
+        animation: 5s rotate linear infinite;
+        --angle: 0deg;
+        background-color: #e3e3e3;
+        border-radius: 5px !important;
+        margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
+        height: 48px;}
+        
+        @keyframes rotate{
+        to {
+            --angle: 360deg;
+        }
+    }
+    @property --angle {
+        syntax: "<angle>";
+        initial-value: 0deg;
+        inherits: false;
+    }</style>`).insertBefore('body');
+    
+    
+    
+    $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${roomiddal}')"]{animation: textclip 5s linear infinite;
+    border-radius: 50px !important;
+    border: 1px solid #0000;
+    font-size: 18px !important;
+    font-style: normal;
+    font-family: sans-serif;
+    background-image: url(https://j.top4top.io/p_2491fp0ba1.gif);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: -3px;}`);
+    
+    $("style").last().append(`
+    
+    #users.swa1 .inroom.uzr img.ustat {
+      width: 54px !important;
+      border-radius: 0px 15px 15px 15px;
+      height: 52px;
+      margin-top: -1px;
+      min-height: 0% !important;
+    }
+    #users.swa1 .inroom.uzr .fitimg.u-pic {
+      border-radius: 0px 15px 15px 15px;
+    margin-top: 0px;
+    z-index: 0;
+    margin-left: -51px;
+    min-width: 50px;
+    width: 50px;
+    min-height: 48px;
+    max-height: 50px;
+    }
+
+    #d2.swa2 .uzr .fitimg.u-pic{
+    border: 2px solid #484848 ;
+        
+        --angle: 0deg;
+        border-radius: 0px 15px 15px 15px;
+        background-color: #e3e3e3;
+       
+       
+    ;}
+    #users.swa1 .uzr .u-msg{
+        -webkit-text-fill-color: #0000;
+        text-transform:uppercase;
+        background-image: url(https://g.top4top.io/p_2484pn5dd1.gif);
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    color: transparent !important;}
+
+    #users.swa1 .inroom.uzr span.uhash{
+    text-transform:uppercase;
+    background-image: linear-gradient(270deg, #ffff,  #000);
+    background-size:220% auto;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;animation:2s linear infinite textclip;
+    display:inline-block;}
+    
+    #users.swa1 .uzr {
+        background-color: #0000 !important;}
+      #users.swa1 {
+        background-image: url("https://up6.cc/2022/11/166869112188972.gif");
+  background-size: cover;
+  background-color: #f5f5f5 !important;}
+
+
+    
+
+    #users.swa1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
+    #d2.swa2 {
+        background-color: #f5f5f5 !important;
+        background-image: url("https://up6.cc/2022/11/166869112188972.gif");
+        background-size: cover;
+    
+    }
+    #chats.swa5 {
+      background-color: #f5f5f5 !important;
+      background-image: url("https://up6.cc/2022/11/166869112188972.gif");
+      background-size: cover;
+  }
+
+    }
+    #d0.swa {background-color: #f6f6f6;}
+    #d0.swa .label-primary {background-color: #000;}
+	#d0.swa .bg {background-color: #000;}
+    
+    #settings.swa4 .label-primary {background-color: #000 !important;}
+
+    #rooms.swa4 .label-primary {background-color: #000 !important;}
+
+    #rooms.swa4 {
+        background-image: url("https://up6.cc/2022/11/166869112188972.gif");
+        background-size: cover;
+        background-color: #f5f5f5 !important;} 
+
+		#d2.swa2 .uzr.d-flex.mm.hmsg {
+        background-color: #c3c3c375!important;
+}
+
+	#d2.swa2 .uzr.d-flex.mm.pmsgc {
+ 
+        background-color: #c3c3c375!important;
+}
+
+
+
+
+
+
+
+
+#d2bc.swa6.d2.light.d2bc.flex-grow-1.break {
+  background-image: url("https://up6.cc/2022/11/166869112188972.gif");
+  background-size: cover;
+  background-color: #f5f5f5 !important;} 
+
+#users .uzr.stl1 .u-msg{
+background-color:#000;}
+
+#d2.swa2.flex-grow-1.break.light{
+  background-image: url("https://up6.cc/2022/11/166869112188972.gif");
+  background-size: cover;
+  background-color: #f5f5f5 !important;}
+
+#dpnl.swa7  {
+
+
+    background-color: #000;
+  }
+
+
+#dpnl.swa9 .nosel.ninr.fl.uzr.label.bg {
+
+
+    background-color: #000 !important;
+  }
+#dpnl.swa9.bg {
+
+
+    background-color: #000 !important;
+  }
+`);
+
+
+    
+         
+         
+    var roomswatest = false;
+    
+    setInterval(function () {
+        if (myroom == '1838ec9ccb8x3d7b2763-x-uy1e9v') {
+            if (roomswatest == false) {
+                roomswatest = true;
+              $('#users').addClass('swa1');
+                $('#d2').addClass('swa2');
+                $('#mic').addClass('swa3');
+                $('#settings').addClass('swa4');
+                $('#rooms').addClass('swa4');
+                $('#d0').addClass('swa');
+                $('#chats').addClass('swa5');
+                $('#d2bc').addClass('swa6');
+				$('#users').addClass('stl1');
+				$('#dpnl').addClass('swa7');
+				$('#dpnl').addClass('swa9');
+            }
+        } else {
+            if (roomswatest == true) {
+                roomswatest = false;
+                $("#users").removeClass('swa1');
+                $("#d2").removeClass('swa2');
+                $('#mic').removeClass('swa3');
+                $('#settings').removeClass('swa4');
+                $('#rooms').removeClass('swa4');
+                $('#d0').removeClass('swa');
+                $('#chats').removeClass('swa5');
+                $('#d2bc').removeClass('swa6');
+				$('#users').removeClass('stl1');
+				$('#dpnl').removeClass('swa7');
+				$('#dpnl').removeClass('swa9');
+            } 
+        } 
+    }, 10);
+  
