@@ -461,7 +461,7 @@ $(`<style>.nosel.d-flex.room.r18477298753xf18b26e4-xqay12h .label-primary {backg
     
     #settings.bnat4 .label-primary {background-color: #f088b5 !important;}
 
-    #rooms.bnat4 .label-primary {background-color: #f088b5 !important;}
+    rooms.bnat4 .label-primary {background-color: #transparent !important;}
 
     #rooms.bnat4 {
         background-image: url("https://up6.cc/2022/11/166853996712891.png");
@@ -555,6 +555,7 @@ background-color:#f088b5;}
             } 
         } 
     }, 10);
+  
   
 
 
