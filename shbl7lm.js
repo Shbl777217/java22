@@ -1018,7 +1018,7 @@ font-size: 18px !important;-webkit-text-fill-color: #fff;}
     
     #settings.ashab4 .label-primary {background-color: #000 !important;}
 
-    #rooms.ashab4 .label-primary {background-color: #000 !important;}
+    #rooms.ashab4 .label-primary {background-color: #transparent !important;}
 
     #rooms.ashab4 {
         background-image: url("https://up6.cc/2022/11/166879614466451.gif");
@@ -1112,5 +1112,4 @@ background-color:#000;}
             } 
         } 
     }, 10);
-  
   
