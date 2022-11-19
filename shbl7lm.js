@@ -1168,7 +1168,7 @@ font-size: 18px !important;-webkit-text-fill-color: #fff;}
     
     $(`<style>#mic.mdina3 .mic {
         border: 2px solid;
-        border-image: linear-gradient(var(--angle), #ffffff 0%, #000 29%, #ffffff 67%, #020202 100%) 1;
+        border-image: linear-gradient(var(--angle), #ffffff 0%, #f7a16e 29%, #ffffff 67%, #f7a16e 100%) 1;
         animation: 5s rotate linear infinite;
         --angle: 0deg;
         background-color: #e3e3e3;
