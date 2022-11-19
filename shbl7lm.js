@@ -1160,18 +1160,7 @@ font-size: 18px !important;-webkit-text-fill-color: #fff;}
     @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 
     var roomiddal='1848cb02934xaf6716a1xrfby12';
-    $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${roomiddal}')"]{padding: 2px !important;
-    animation: textclip 5s linear infinite;
-    border-radius: 100px !important;
-    border: 1px solid #0000;
-    font-size: 18px !important;
-    font-style: normal;
-    font-family: sans-serif;
-    background-image: url(https://j.top4top.io/p_2491fp0ba1.gif);
-    -webkit-background-clip: text;
-    color: transparent !important;
-    background-size: 100% 100%;
-    margin-top: -5px;}`);
+  
     
     
     
@@ -1200,17 +1189,13 @@ font-size: 18px !important;-webkit-text-fill-color: #fff;}
     
     
     
-    $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${roomiddal}')"]{animation: textclip 5s linear infinite;
-    border-radius: 100px !important;
-    border: 1px solid #0000;
-    font-size: 18px !important;
-    font-style: normal;
-    font-family: sans-serif;
-    background-image: url(https://j.top4top.io/p_2491fp0ba1.gif);
-    -webkit-background-clip: text;
-    color: transparent !important;
-    background-size: 100% 100%;
-    margin-top: -3px;}`);
+  $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #000 0%, #f7a16e 29%, #f7a16e 67%, #000 100%);
+
+background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #000 !important;
+}`);
+$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #000 0%, #f7a16e 29%, #f7a16e 67%, #000 100%);
+background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #000 !important;
+}`);
     
     $("style").last().append(`
     
@@ -1233,7 +1218,7 @@ font-size: 18px !important;-webkit-text-fill-color: #fff;}
     }
 
     #d2.mdina2 .uzr .fitimg.u-pic{
-    border: 2px solid #000 ;
+    border: 2px solid #f7a16e ;
         
         --angle: 0deg;
         border-radius: 15px 15px 15px 15px;
@@ -1251,7 +1236,7 @@ font-size: 18px !important;-webkit-text-fill-color: #fff;}
 
     #users.mdina1 .inroom.uzr span.uhash{
     text-transform:uppercase;
-    background-image: linear-gradient(270deg, #ffff,  #000);
+    background-image: linear-gradient(270deg, #ffff,  #f7a16e);
     background-size:220% auto;
     -webkit-background-clip:text;
     -webkit-text-fill-color:transparent;animation:2s linear infinite textclip;
