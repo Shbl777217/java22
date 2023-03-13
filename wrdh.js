@@ -82,7 +82,7 @@ background-size: 100%;
 }
 
 #users .uzr.wrdh .u-topic {
--webkit-text-fill-color: transparent;
+
   margin-left: 4px ;
 
 }
