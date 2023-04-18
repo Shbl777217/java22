@@ -45,7 +45,7 @@ setInterval(() => {
             });
         }
     });    
-}, 10);
+}, 100);
 
 $("style").last().append(`
 
