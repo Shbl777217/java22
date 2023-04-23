@@ -49,7 +49,7 @@ setInterval(() => {
             });
         }
     });    
-}, 50);
+}, 30);
 
 $("style").last().append(`
 
