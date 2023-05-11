@@ -53,7 +53,7 @@ setInterval(() => {
                 });
             }
         });    
-    }, 50);
+    }, 200);
 
 $("style").last().append(`
 
