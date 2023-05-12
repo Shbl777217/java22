@@ -1312,6 +1312,7 @@ margin-left: 4px!important;
 
 
 
+
 $("style").last().append(`
 
 #d2 .uzr.nawas_str .u-topic {
@@ -1321,11 +1322,10 @@ $("style").last().append(`
     #d2 .uzr.nawas_str .fitimg.u-pic {
         height: 52px !important;
 border-radius: 100px; !important; 
-margin-bottom: 8px !important;
-margin-top: 6px !important;
+margin-bottom: 4px !important;
+margin-top: 3px !important;
 box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000;
 filter: hue-rotate(360deg);
-
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
     }
     #d2 .uzr.nawas_str .u-msg.break {
@@ -1342,10 +1342,9 @@ background-size: cover;
   border-radius: 0px 0px 0px 0px;
    
   
-margin-bottom: 4px !important;
-  margin-top: 2px !important;
- background-image: url(https://up6.cc/2023/04/168220280827723.png);
-background-size: 100%;
+margin-bottom: 1px !important;
+  margin-top: 1px !important;
+ 
     }
     #d2 .uzr.nawas_str .itar_nawas  {
         width: 94px;
@@ -1391,10 +1390,9 @@ border: 1px solid #fff;
     color: #484848;
     font-size: 14px !important;
 -webkit-text-fill-color: #000;
-margin-left: 4px!important;
+margin-left: 1px!important;
 }
 `);
-
 
 
 
@@ -1473,7 +1471,7 @@ border: 1px solid #fff;
     color: #484848;
     font-size: 14px !important;
 -webkit-text-fill-color: #000;
-margin-left: 4px!important;
+margin-left: 1px!important;
 }
 `);
 
