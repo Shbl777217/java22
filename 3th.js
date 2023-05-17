@@ -1,5 +1,467 @@
 
 
+$("style").last().append(`
+
+#users .uzr.rosecat img.co {
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.rosecat span.uhash{
+    -webkit-text-fill-color: transparent;
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;}
+
+
+#users .uzr.rosecat img.u-ico {
+
+margin-left: 3px;
+    
+     
+
+      
+    }
+
+#users .uzr.rosecat img.ustat {
+      width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 14px;
+  z-index: 0 !important;
+  display: none;
+      
+    }
+
+#users .uzr.rosecat .fitimg.u-pic {
+
+
+
+
+  border-radius: 10px 0px 10px 10px !important;
+  margin-top: 6px !important;
+  height: 52px !important;
+  margin-left: 10px!important;
+  z-index: 0 !important;
+margin-bottom: 10px !important;
+padding: 27px !important;
+margin-top:3px;
+
+
+box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+
+   
+  
+  border: 1px solid #fff;
+}
+
+#users .uzr.rosecat .u-msg {
+	
+  
+   -webkit-background-clip: text;
+  
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/02/167632129603232.gif);
+  padding: 0px !important;
+	margin-bottom: 0px !important;
+margin-left: 10px;
+background-size: cover;
+margin-top: 11px !important;
+
+}
+
+
+
+
+
+#users .uzr.rosecat {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 10px 0px 0px 10px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/05/168418512038931.jpg);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.rosecat .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.rosecat .u-topic {
+
+  margin-left: 1px ;
+
+}
+
+
+
+#users .uzr.rosecat .itarr_rosecat1 {
+ width: 0px;
+
+margin-top: -0px;
+cursor: pointer;
+margin-left: -0px;
+}
+
+`);
+
+
+$("style").last().append(`
+
+#users .uzr.norhtyd img.co {
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.norhtyd span.uhash{
+    -webkit-text-fill-color: transparent;
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;}
+
+
+#users .uzr.norhtyd img.u-ico {
+
+margin-left: 11px;
+    
+     
+
+      
+    }
+
+#users .uzr.norhtyd img.ustat {
+      width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 14px;
+  z-index: 0 !important;
+  display: none;
+      
+    }
+
+#users .uzr.norhtyd .fitimg.u-pic {
+
+  border-radius: 7px !important;
+  margin-top: 6px !important;
+  height: 52px !important;
+  margin-left: 10px!important;
+  z-index: 0 !important;
+margin-bottom: 10px !important;
+padding: 29px !important;
+border:1px solid #fff;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #000
+}
+
+#users .uzr.norhtyd .u-msg {
+	
+  
+  padding: 0px !important;
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+
+  padding: 0px !important;
+  font-size: 89% !important;
+	margin-bottom: 5px !important;
+margin-top: 8px !important;
+background-size: cover;
+margin-left: 15px !important;
+
+}
+
+
+
+
+
+#users .uzr.norhtyd {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 10px 0px 10px 0px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/05/168417936464711.jpg);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.norhtyd .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.norhtyd .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 4px ;
+
+}
+
+
+#users .uzr.norhtyd .itarr_norhtyd1 {
+ width: 0px;
+
+margin-top: -0px;
+cursor: pointer;
+margin-left: -0px;
+}
+
+`);
+
+
+
+
+
+$("style").last().append(`
+
+#users .uzr.arib img.co {
+
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
+}
+
+#users .uzr.arib span.uhash{
+width: 0px !important;
+    height: 0px !important;
+  margin-right: 1px;
+-webkit-text-fill-color: transparent;
+
+    
+    }
+
+
+
+#users .uzr.arib img.u-ico {
+margin-left: 9px;
+    
+     
+
+      
+    }
+
+#users .uzr.arib img.ustat {
+      width: 0px !important;
+    height: 0px !important;
+    min-height: 0%!important;
+    margin-right: 0;
+    z-index: 999999;
+    border-radius: 3px 0px 3px 0px;
+    margin-left: 2px;
+    margin-top: 41px;
+    
+    
+    }
+
+#users .uzr.arib .fitimg.u-pic {
+   border-radius: 15px 0px 15px 0px;
+  
+  height: 52px !important;
+  margin-left: -0px!important;
+  z-index: 0 !important;
+
+padding: 10px !important;
+border:1px solid #fff;margin-top:1px;
+margin-bottom:10px;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #453118
+}
+
+#users .uzr.arib .u-msg {
+	
+  -webkit-background-clip: text;
+   -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/02/167632129603232.gif);
+background-size: cover;
+  font-size: 89% !important;
+ 
+  padding: 5px !important;
+	margin-bottom: 1px !important;
+
+
+margin-top: 1px !important;
+margin-left: 50px !important;
+
+}
+
+
+
+
+
+#users .uzr.arib {
+  padding: 0px !important;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+   border-radius: 15px 0px 0px 0px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/05/168392830057921.jpg);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.arib .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.arib .u-topic {
+ -webkit-background-clip: text;
+   -webkit-text-fill-color: #0000;
+ background-image: url(https://up6.cc/2023/02/167632129603232.gif);
+background-size: cover;
+  
+  
+  
+
+  margin-left: 42px;
+
+}
+
+#users .uzr.arib .itarr_arib1 {
+ width: 0px;
+
+margin-top: -0px;
+cursor: pointer;
+margin-left: -0px;
+}
+
+
+`);
+
+
+
+
+
+
+
+$("style").last().append(`
+
+#users .uzr.abdullahvi2 img.co {
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;
+}
+
+#users .uzr.abdullahvi2 span.uhash{
+    -webkit-text-fill-color: transparent;
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;}
+
+
+#users .uzr.abdullahvi2 img.u-ico {
+  width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;
+margin-left: 9px;
+    
+     
+
+      
+    }
+
+#users .uzr.abdullahvi2 img.ustat {
+      width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 14px;
+  z-index: 0 !important;
+  display: none;
+      
+    }
+
+#users .uzr.abdullahvi2 .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 6px !important;
+  height: 52px !important;
+  margin-left: -80px!important;
+  z-index: 0 !important;
+margin-bottom: 29px !important;
+padding: 29px !important;
+border:2px solid #939393;margin-top:3px;border-radius:100px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #939393
+}
+
+#users .uzr.abdullahvi2 .u-msg {
+	
+ 
+  padding: 1px !important;
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+
+  padding: 0px !important;
+  font-size: 89% !important;
+	margin-bottom: 5px !important;
+margin-top: 8px !important;
+background-size: cover;
+margin-left: 15px !important;
+
+}
+
+
+
+
+
+#users .uzr.abdullahvi2 {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 10px 0px 10px 0px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2023/05/168356898680931.gif);
+background-size: 100%;
+    
+}
+
+
+
+#users .uzr.abdullahvi2 .d-flex.fl {
+  padding-right: 0px !important;
+}
+
+#users .uzr.abdullahvi2 .u-topic {
+-webkit-text-fill-color: transparent;
+  margin-left: 4px ;
+
+}
+
+
+#users .uzr.abdullahvi2 .itarr_abdullahvi21 {
+ width: 0px;
+
+margin-top: -0px;
+cursor: pointer;
+margin-left: -0px;
+}
+
+
+`);
+
+
+
+
 
 $("style").last().append(`
 
@@ -385,7 +847,7 @@ width: 0px !important;
   height: 0px !important;
   margin-left: -80px!important;
   z-index: 0 !important;
-margin-bottom: 30px !important;
+margin-bottom: 50px !important;
 padding: 0px !important;
 border:1px solid #e7e7e7;margin-top:3px;border-radius:100px;
 
@@ -421,7 +883,7 @@ margin-left: -8px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/05/168332829332771.jpg);
+ background-image: url(https://up6.cc/2023/05/168357445380881.jpg);
 background-size: 100%;
 
     
@@ -753,235 +1215,6 @@ margin-left: -0px;
 
 
 
-$("style").last().append(`
-
-#users .uzr.mshail img.co {
-  width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;
-}
-
-#users .uzr.mshail span.uhash{
-    -webkit-text-fill-color: transparent;
-  width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;}
-
-
-#users .uzr.mshail img.u-ico {
-
-margin-left: 3px;
-    
-     
-
-      
-    }
-
-#users .uzr.mshail img.ustat {
-      width: 10px !important;
-  border-radius: 0px 10px 50px 50px !important;
-  height: 10px !important;
-  min-height: 0% !important;
-  z-index: 0 !important;
-margin-left: -0px !important;
-margin-top: 0px !important;
-      
-    }
-
-#users .uzr.mshail .fitimg.u-pic {
-
-
-
-
-  border-radius: 100px !important;
-  margin-top: 6px !important;
-  height: 52px !important;
-  margin-left: 0px!important;
-  z-index: 0 !important;
-margin-bottom: 10px !important;
-padding: 27px !important;
-margin-top:3px;
-
-
-box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #df9cad;
-
-   
-  
-  border: 1px solid #df9cad;
-}
-
-#users .uzr.mshail .u-msg {
-	
-  
-   -webkit-background-clip: text;
-  
-  font-size: 89% !important;
-  -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/01/167459183804791.gif);
-  padding: 0px !important;
-	margin-bottom: 0px !important;
-margin-left: 8px;
-background-size: cover;
-margin-top: 5px !important;
-
-}
-
-
-
-
-
-#users .uzr.mshail {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-  border-radius: 0px 7px 0px 7px;
-   
-  
-  border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/04/168228344650182.png);
-background-size: 100%;
-    
-}
-
-
-
-#users .uzr.mshail .d-flex.fl {
-  padding-right: 0px !important;
-}
-
-#users .uzr.mshail .u-topic {
-
-  margin-left: 1px ;
-
-}
-
-
-
-#users .uzr.mshail .itarr_mshail1 {
-
-
-height: 95px;
-margin-top: -49px;
-cursor: pointer;
-margin-left: -45px;
-}
-
-`);
-
-
-
-
-
-
-$("style").last().append(`
-
-#users .uzr.troh img.co {
-  width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;
-}
-
-#users .uzr.troh span.uhash{
-    -webkit-text-fill-color: transparent;
-width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;}
-
-
-#users .uzr.troh img.u-ico {
-margin-left: 9px;
-box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 1px #505050;
-border-radius: 2px 2px 2px 2px;
-
-
-     
-
-      
-    }
-
-#users .uzr.troh img.ustat {
- width: 10px !important;
-  border-radius: 50px !important;
-  height: 10px !important;
-  min-height: 0% !important;
-  z-index: 0 !important;
-margin-left: 5px !important;
-margin-top: 4px !important;
-      
-    }
-
-#users .uzr.troh .fitimg.u-pic {
-  border-radius: 100px !important;
-  margin-top: 9px !important;
-  height: 52px !important;
-  margin-left: -4px!important;
-  z-index: 0 !important;
-margin-bottom: 12px !important;
-padding: 27px !important;
-border:1px solid #2e2e2e;margin-top:3px;border-radius:100px;
-
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000;
-filter: hue-rotate(360deg);
-box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
-}
-
-#users .uzr.troh .u-msg {
--webkit-background-clip: text;
-  
-  font-size: 93% !important;
-  -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/03/167832696716741.gif);
-  padding: 0px !important;
-	margin-bottom: 5px !important;
-margin-right: 28px !important;
-margin-left: 15px;
-background-size: cover;
-margin-top: 8px !important;
-
-}
-
-
-
-
-
-#users .uzr.troh {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-  border-radius: 0px 0px 0px 0px;
-   
-  
-  border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/04/16822874202881.png);
-background-size: 100%;
-
-    
-}
-
-
-
-#users .uzr.troh .d-flex.fl {
-  padding-right: 0px !important;
-}
-
-#users .uzr.troh .u-topic {
-     -webkit-text-fill-color: transparent;
-  margin-left: 5px ;
-
-}
-
-
-#users .uzr.troh .itarr_troh {
- width: 96px;
-height: 96px;
-margin-top: -45px;
-cursor: pointer;
-margin-left: -46px;
-}
-
-
-`);
-
 
 
 
@@ -1212,116 +1445,6 @@ margin-left: -41px;
 
 
 
-$("style").last().append(`
-
-#users .uzr.anida img.co {
-  width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;
-}
-
-#users .uzr.anida span.uhash{
-    -webkit-text-fill-color: transparent;
-width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;}
-
-
-#users .uzr.anida img.u-ico {
-margin-left: 9px;
-width: 0px !important;
-    height: 0px !important;
-  margin-right: 1px;
-    
-     
-
-      
-    }
-
-#users .uzr.anida img.ustat {
-      width: 0px !important;
-    height: 0px !important;
-    min-height: 0%!important;
-    margin-right: 0;
-    z-index: 999999;
-    border-radius: 50px;
-    margin-left: 6px;
-    margin-top: 8px;
-      
-    }
-
-#users .uzr.anida .fitimg.u-pic {
-  border-radius: 100px !important;
-  margin-top: 5px !important;
-  height: 0px !important;
-  margin-left: -80px!important;
-  z-index: 0 !important;
-margin-bottom: 10px !important;
-padding: 0px !important;
-border:1px solid #e7e7e7;margin-top:3px;border-radius:100px;
-
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #000
-}
-
-#users .uzr.anida .u-msg {
-text-align:center;
-	
-  -webkit-background-clip: text;
-  
-  font-size: 90% !important;
- -webkit-text-fill-color: transparent;
-
-  padding: 0px !important;
-	margin-bottom: -2px !important;
-
-
-margin-top: 10px !important;
-margin-left: -8px !important;
-
-}
-
-
-
-
-
-#users .uzr.anida {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-  border-radius: 4px 4px 4px 4px;
-   
-  
-  border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/04/168256739759111.png);
-background-size: cover;
-
-    
-}
-
-
-
-#users .uzr.anida .d-flex.fl {
-  padding-right: 0px !important;
-}
-
-#users .uzr.anida .u-topic {
--webkit-text-fill-color: transparent;
-  margin-left: 9px ;
-
-}
-
-#users .uzr.anida .itarr_anida1 {
- width: 0px;
-
-margin-top: -0px;
-cursor: pointer;
-margin-left: -0px;
-}
-
-
-`);
-
-
 
 
 
@@ -1437,221 +1560,10 @@ background-size: 100%;
 
 
 
-$("style").last().append(`
-
-#users .uzr.blal img.co {
-  width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;
-}
-
-#users .uzr.blal span.uhash{
-    -webkit-text-fill-color: transparent;
-  width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;}
-
-
-#users .uzr.blal img.u-ico {
-  width: 0px !important;
-    height: 0px !important;
-  margin-right: 0px;
-margin-left: 9px;
-    
-     
-
-      
-    }
-
-#users .uzr.blal img.ustat {
-      width: 54px !important;
-  border-radius: 0px 50px 50px 50px !important;
-  height: 52px !important;
-  margin-top: 5px !important;
-  min-height: 0% !important;
-  margin-left: 14px;
-  z-index: 0 !important;
-  display: none;
-      
-    }
-
-#users .uzr.blal .fitimg.u-pic {
-  border-radius: 100px !important;
-  margin-top: 6px !important;
-  height: 52px !important;
-  margin-left: -80px!important;
-  z-index: 0 !important;
-margin-bottom: 19px !important;
-padding: 29px !important;
-border:2px solid #939393;margin-top:3px;border-radius:100px;
-
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #939393
-}
-
-#users .uzr.blal .u-msg {
-	
- 
-  padding: 1px !important;
-  font-size: 89% !important;
-  -webkit-text-fill-color: #0000;
-
-  padding: 0px !important;
-  font-size: 89% !important;
-	margin-bottom: 5px !important;
-margin-top: 8px !important;
-background-size: cover;
-margin-left: 15px !important;
-
-}
-
-
-
-
-
-#users .uzr.blal {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-  border-radius: 10px 0px 10px 0px;
-   
-  
-  border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/04/168186211418061.gif);
-background-size: 100%;
-    
-}
-
-
-
-#users .uzr.blal .d-flex.fl {
-  padding-right: 0px !important;
-}
-
-#users .uzr.blal .u-topic {
--webkit-text-fill-color: transparent;
-  margin-left: 4px ;
-
-}
-
-
-
-
-`);
-
-
     
 
 
 
-
-
-
-$("style").last().append(`
-
-#users .uzr.shg img.co {
-
-  width: 1px !important;
-    height: 1px !important;
-  margin-right: 1px;
-}
-
-#users .uzr.shg span.uhash{
-
--webkit-text-fill-color: transparent;
-
-    
-    }
-
-
-
-#users .uzr.shg img.u-ico {
-margin-left: 2px;
-    
-     
-
-      
-    }
-
-#users .uzr.shg img.ustat {
-      width: 0px !important;
-    height: 0px !important;
-    min-height: 0%!important;
-    margin-right: 0;
-    z-index: 999999;
-    border-radius: 3px 0px 3px 0px;
-    margin-left: 2px;
-    margin-top: 41px;
-    
-    
-    }
-
-#users .uzr.shg .fitimg.u-pic {
-   border-radius: 0px 15px 0px 15px;
-  
-  height: 52px !important;
-  margin-left: -0px!important;
-  z-index: 0 !important;
-
-padding: 10px !important;
-border:1px solid #fff;margin-top:1px;
-margin-bottom:2px;
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #9c9c9c
-}
-
-#users .uzr.shg .u-msg {
-	
-  -webkit-background-clip: text;
-  
-  font-size: 89% !important;
-  -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/02/167632129603232.gif);
-  padding: 0px !important;
-	margin-bottom: 1px !important;
-
-background-size: cover;
-margin-top: 3px !important;
-margin-left: 8px !important;
-
-}
-
-
-
-
-
-#users .uzr.shg {
-  padding: 0px !important;
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-   border-radius: 0px 15px 0px 15px;
-   
-  
-  border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/04/168151035308061.png);
-background-size: 100%;
-    
-}
-
-
-
-#users .uzr.shg .d-flex.fl {
-  padding-right: 0px !important;
-}
-
-#users .uzr.shg .u-topic {
-
-
-}
-
-
-#users .uzr.shg .itarr_shg {
-height: 0px;
-margin-top: -40px;
-cursor: pointer;
-margin-left: -41px;
-}
-
-`);
 
 
 
@@ -2629,125 +2541,6 @@ margin-left: -41px;
 
 
 
-$("style").last().append(`
-
-#users .uzr.mshs img.co {
-
-  width: 1px !important;
-    height: 1px !important;
-  margin-right: 1px;
-}
-
-#users .uzr.mshs span.uhash{
-width: 1px !important;
-    height: 1px !important;
-  margin-right: 1px;
-
--webkit-text-fill-color: transparent;
-
-    
-    }
-
-
-
-#users .uzr.mshs img.u-ico {
-margin-left: 5px;
-    
-     
-
-      
-    }
-
-#users .uzr.mshs img.ustat {
-      width: 0px !important;
-    height: 0px !important;
-    min-height: 0%!important;
-    margin-right: 0;
-    z-index: 999999;
-    border-radius: 3px 0px 3px 0px;
-    margin-left: 2px;
-    margin-top: 41px;
-    
-    
-    }
-
-#users .uzr.mshs .fitimg.u-pic {
-   border-radius: 15px 0px 15px 0px;
-  
-  height: 52px !important;
-  margin-left: -0px!important;
-  z-index: 0 !important;
-
-padding: 10px !important;
-border:1px solid #fff;margin-top:1px;
-margin-bottom: 25px;
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #b6a287
-}
-
-#users .uzr.mshs .u-msg {
-	
-  -webkit-background-clip: text;
-  
-  font-size: 89% !important;
-  -webkit-text-fill-color: transparent;
- 
-  padding: 2px !important;
-	margin-bottom: 12px !important;
-
-
-margin-top: 1px !important;
-margin-left: 4px !important;
-
-}
-
-
-
-
-
-#users .uzr.mshs {
-  padding: 0px !important;
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-   border-radius: 15px 0px 15px 0px;
-   
-  
-  border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/03/167943115140471.png);
-background-size: 100%;
-    
-}
-
-
-
-#users .uzr.mshs .d-flex.fl {
-  padding-right: 0px !important;
-}
-
-#users .uzr.mshs .u-topic {
--webkit-text-fill-color: transparent;
-  
-  
-  
-
-  margin-left: 30px;
-
-}
-
-
-
-#users .uzr.mshs .itarr_mshs {
-height: 0px;
-margin-top: -40px;
-cursor: pointer;
-margin-left: -41px;
-}
-
-
-
-`);
-
-
 
     
 
@@ -3149,120 +2942,6 @@ margin-left: -46px;
 
 
 
-$("style").last().append(`
-
-#users .uzr.awham img.co {
-
-  width: 1px !important;
-    height: 1px !important;
-  margin-right: 1px;
-}
-
-#users .uzr.awham span.uhash{
-width: 1px !important;
-    height: 1px !important;
-  margin-right: 1px;
-
--webkit-text-fill-color: transparent;
-
-    
-    }
-
-
-
-#users .uzr.awham img.u-ico {
-margin-left: 5px;
-    
-     
-
-      
-    }
-
-#users .uzr.awham img.ustat {
-      width: 0px !important;
-    height: 0px !important;
-    min-height: 0%!important;
-    margin-right: 0;
-    z-index: 999999;
-    border-radius: 3px 0px 3px 0px;
-    margin-left: 2px;
-    margin-top: 41px;
-    
-    
-    }
-
-#users .uzr.awham .fitimg.u-pic {
-   border-radius: 15px 0px 15px 0px;
-  
-  height: 52px !important;
-  margin-left: -0px!important;
-  z-index: 0 !important;
-
-padding: 10px !important;
-border:1px solid #fff;margin-top:1px;
-margin-bottom:-40px;
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #252525
-}
-
-#users .uzr.awham .u-msg {
-	
-  -webkit-background-clip: text;
-  
-  font-size: 89% !important;
-  -webkit-text-fill-color: transparent;
- 
-  padding: 2px !important;
-	margin-bottom: 12px !important;
-
-
-margin-top: 1px !important;
-margin-left: 4px !important;
-
-}
-
-
-
-
-
-#users .uzr.awham {
-  padding: 0px !important;
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-   border-radius: 15px 0px 15px 0px;
-   
-  
-  border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/03/167837438777961.png);
-background-size: 100%;
-    
-}
-
-
-
-#users .uzr.awham .d-flex.fl {
-  padding-right: 0px !important;
-}
-
-#users .uzr.awham .u-topic {
-
-
-  margin-left: 10px;
-
-}
-
-#users .uzr.awham .itarr_awham {
-height: 0px;
-margin-top: -40px;
-cursor: pointer;
-margin-left: -41px;
-}
-
-
-`);
-
-
-
     
 
 
@@ -3382,124 +3061,6 @@ margin-left: -55px;
 
 
     
-
-
-
-$("style").last().append(`
-
-#users .uzr.mssh img.co {
-
-  width: 1px !important;
-    height: 1px !important;
-  margin-right: 1px;
-}
-
-#users .uzr.mssh span.uhash{
-width: 1px !important;
-    height: 1px !important;
-  margin-right: 1px;
-
--webkit-text-fill-color: transparent;
-
-    
-    }
-
-
-
-#users .uzr.mssh img.u-ico {
-margin-left: 5px;
-    
-     
-
-      
-    }
-
-#users .uzr.mssh img.ustat {
-      width: 0px !important;
-    height: 0px !important;
-    min-height: 0%!important;
-    margin-right: 0;
-    z-index: 999999;
-    border-radius: 3px 0px 3px 0px;
-    margin-left: 2px;
-    margin-top: 41px;
-    
-    
-    }
-
-#users .uzr.mssh .fitimg.u-pic {
-   border-radius: 15px 0px 15px 0px;
-  
-  height: 52px !important;
-  margin-left: -0px!important;
-  z-index: 0 !important;
-
-padding: 10px !important;
-border:1px solid #fff;margin-top:1px;
-margin-bottom:-40px;
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #252525
-}
-
-#users .uzr.mssh .u-msg {
-	
-  -webkit-background-clip: text;
-  
-  font-size: 89% !important;
-  -webkit-text-fill-color: transparent;
- 
-  padding: 2px !important;
-	margin-bottom: 12px !important;
-
-
-margin-top: 1px !important;
-margin-left: 4px !important;
-
-}
-
-
-
-
-
-#users .uzr.mssh {
-  padding: 0px !important;
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-   border-radius: 15px 0px 15px 0px;
-   
-  
-  border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/03/16783115387191.png);
-background-size: 100%;
-    
-}
-
-
-
-#users .uzr.mssh .d-flex.fl {
-  padding-right: 0px !important;
-}
-
-#users .uzr.mssh .u-topic {
--webkit-text-fill-color: transparent;
-  
-  
-  
-
-  margin-left: 30px;
-
-}
-
-
-#users .uzr.mssh .itarr_mssh {
-height: 0px;
-margin-top: -40px;
-cursor: pointer;
-margin-left: -41px;
-}
-
-
-`);
 
 
 
@@ -4348,17 +3909,19 @@ margin-left: -41px;
 
 
 
-
 $("style").last().append(`
 
 #users .uzr.rooot img.co {
- width: 1px !important;
-    height: 1px !important;
-  margin-right: 1px;
+   width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px;
 }
 
 #users .uzr.rooot span.uhash{
-    -webkit-text-fill-color: transparent;}
+       -webkit-text-fill-color: transparent;
+width: 0px !important;
+    height: 0px !important;
+  margin-right: 0px}
 
 
 #users .uzr.rooot img.u-ico {
@@ -4385,13 +3948,13 @@ margin-left: 9px;
   border-radius: 100px !important;
   
   height: 52px !important;
-  margin-left: 12px!important;
+  margin-left: 16px!important;
   z-index: 0 !important;
 
 padding: 30px !important;
-border:2px solid #304766;margin-top:5px;border-radius:100px;
-margin-bottom: 5px !important;
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #304766
+border:0px solid #fff;margin-top:5px;border-radius:100px;
+margin-bottom:10px;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #ffc000
 }
 
 #users .uzr.rooot .u-msg {
@@ -4400,12 +3963,12 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 5px #304766
   
   font-size: 89% !important;
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2023/02/167614262348761.gif);
+ background-image: url(https://up6.cc/2023/05/168406481247791.gif);
   padding: 0px !important;
-	margin-bottom: 15px !important;
+	margin-bottom: 3px !important;
 margin-left: 5px;
 background-size: cover;
-margin-top: 1px !important;
+margin-top: 8px !important;
 
 }
 
@@ -4414,15 +3977,14 @@ margin-top: 1px !important;
 
 
 #users .uzr.rooot {
-
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #ffc000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 70px 0px 0px 70px;
+  border-radius: 4px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/02/167614316765671.png);
+ background-image: url(https://up6.cc/2023/05/168406179894622.jpg);
 background-size: 100%;
     
 }
@@ -4434,14 +3996,13 @@ background-size: 100%;
 }
 
 #users .uzr.rooot .u-topic {
-margin-bottom: 40px !important;
 
   margin-left: 4px;
 
 }
 
 #users .uzr.rooot .itarr_rooot1 {
- width: 100px;
+
 height: 100px;
 margin-top: -50px;
 cursor: pointer;
@@ -4451,8 +4012,6 @@ margin-left: -50px;
 
 
 `);
-
-
 
     
 
@@ -4676,14 +4235,13 @@ margin-left: -46px;
 `);
 
 
-
 const _ma56zznz2 = [
  
 {name: "ghshim1", deco: "**غشيم", cls: "ghshim", icon: "https://up6.cc/2023/04/168159044568191.png"} ,
 
  {name: "sigmaa", deco: " ّطائِـــش", cls: "sigmm", icon: "https://up6.cc/2023/03/167778788074871.png"} ,
 		
-{name: "rooot1", deco: "ُroot", cls: "rooot", icon: "https://up6.cc/2023/02/167614231649311.gif"} ,
+{name: "rooot1", deco: "ُRoot", cls: "rooot", icon: "https://up6.cc/2023/05/168406497087521.gif"} ,
 
 {name: "thkaaar1", deco: "*تذ+كار*", cls: "thkaaar", icon: "https://up6.cc/2023/03/167983937833081.png"} ,
 
@@ -4702,18 +4260,12 @@ const _ma56zznz2 = [
 
 {name: "mot2", deco: "مُتّرَفه", cls: "mot2", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
 
-{name: "mssh", deco: "𝐌𝐬𝐡*", cls: "mssh", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
-
 {name: "hhhqq1", deco: ".. حـّـظ", cls: "hhqq", icon: "https://up6.cc/2023/03/16780297543541.png"} ,
-
-{name: "awham", deco: "𝐀𝐖𝐇𝐀𝐌", cls: "awham", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
 
 
 {name: "sauudg", deco: "سعُـود..", cls: "sauudg", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
 
 {name: "aymn", deco: "َM.", cls: "aymn", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
-
-{name: "mshs", deco: "𝐌𝐬𝐡$", cls: "mshs", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
 
 
 {name: "baron", deco: "نَقاء", cls: "baron", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
@@ -4736,39 +4288,43 @@ const _ma56zznz2 = [
 
 {name: "mram1", deco: " ّ𝑀𝐴𝑅𝐴𝑀 ..", cls: "mram", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
 
-{name: "shg", deco: "شَــغــفّ", cls: "shg", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
-
-
-{name: "blal", deco: "السّيد : بِلاَل", cls: "blal", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
 
 {name: "sida", deco: "ɫɔ", cls: "sida", icon: "https://up6.cc/2023/04/168193932148781.png"} ,
 
- {name: "anida1", deco: "ŋɛʷ#", cls: "anida", icon: "https://up6.cc/2023/04/168141949862121.png"},
 
 {name: "northcat", deco: "نَنورثثثثث", cls: "northcat", icon: "https://up6.cc/2023/04/168193932148781.png"},
 
 	
+{name: "norhtyd1", deco: "ŃortŤtĤ", cls: "norhtyd", icon: "https://up6.cc/2023/04/168141949862121.png"},
+	
 {name: "nawas1", deco: "َNAWAS", cls: "nawas", icon: "https://up6.cc/2023/04/168220162425691.png"},
-
-{ name: "troh", deco: "t-roh", cls: "troh", icon: "https://up6.cc/2023/04/168228729914391.png"},
 	
 { name: "tro7", deco: "t-ro7", cls: "tro7", icon: "https://up6.cc/2023/03/16783258845491.png"},
 
-{name: "mshail1", deco: "مAغّـر", cls: "mshail", icon: "https://up6.cc/2023/04/168236496562091.png"},
 	
 {name: "mqam1", deco: "صَاحبة المقامA", cls: "mqam" ,icon: "https://up6.cc/2023/04/168141949862121.png"},
 	
 {name: "nawarh1", deco: "نَـــــــواره", cls: "nawarh", icon: "https://up6.cc/2023/04/168141949862121.png"},
 	
 {name: "northm1", deco: "ŃoOrtŤtĤ", cls: "northm", icon: "https://up6.cc/2023/04/168141949862121.png"},
-	
-{name: "soltanotb1", deco: "َSultan Al-Otaibi", cls: "soltanotb", icon: "https://up6.cc/2023/04/168141949862121.png"},
-	
-{ name: "tro7sqr", deco: "t-rooh", cls: "tro7sqr", icon: "https://up6.cc/2023/04/168228729914391.png"},
+
 	
 {name: "northshm1", deco: "Ńo0rtŤtĤ", cls: "northshm", icon: "https://up6.cc/2023/04/168141949862121.png"},
 	
-{name: "abdullahvi1", deco: "َVi", cls: "abdullahvi", icon: "https://up6.cc/2023/04/168141949862121.png"}
+	
+{name: "soltanotb1", deco: "َSultan Al-Otaibi", cls: "soltanotb", icon: "https://up6.cc/2023/04/168141949862121.png"},
+	
+{ name: "tro7sqr", deco: "t-rooh", cls: "tro7sqr", icon: "https://up6.cc/2023/04/168228729914391.png"},	
+
+	
+{name: "abdullahvi1", deco: "َVi", cls: "abdullahvi", icon: "https://up6.cc/2023/04/168141949862121.png"},
+	
+{name: "abdullahvi21", deco: "ُVi", cls: "abdullahvi2", icon: "https://up6.cc/2023/04/168141949862121.png"},
+	
+	
+{name: "arib1", deco: "أَرِيـب", cls: "arib", icon: "https://up6.cc/2023/04/168141949862121.png"},
+	
+{name: "rosecat1", deco: "ُrose", cls: "rosecat", icon: "https://up6.cc/2023/04/168141949862121.png"}
 	
 ];
 
@@ -4783,6 +4339,7 @@ setInterval(() => {
         });
     }
 }, 3 * 1000);
+
 
 
 
