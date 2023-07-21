@@ -113,7 +113,7 @@ setInterval(() => {
         }
     });
     itar_loop_done = true;
-}, 100);
+}, 300);
 
 
 $("style").last().append(`
